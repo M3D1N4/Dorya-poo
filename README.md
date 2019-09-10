@@ -7,7 +7,7 @@ POO 2do semestre mariosky.
 #4.-Lista de Películas (15 de Septiembre 9:00 horas)     |    |
 #6.-Actores (16 de Septiembre 9:00 horas)   | |
 Trabajos
-1.-
-2.-
-3.-
-4.-
+#1.-
+#2.-
+#3.-
+#4.-
