@@ -1,4 +1,4 @@
-Pasos para instalar 
+Pasos para instalar el ambiente de desarrollo para la consola C#
 
 1.-Instalación de dotnet core 2.2.
 
