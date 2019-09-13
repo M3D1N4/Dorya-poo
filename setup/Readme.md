@@ -12,4 +12,9 @@ Pasos para instalar el ambiente de desarrollo para la consola C#
 
 #2.-  Al descargar el archivo anterior deberemos instalarlo, este proceso puede tardar un poco, pero una vez instalado y descargado algúnos paquetes podremos usarlo y se vera algo asi.
 ![alt text](https://code.visualstudio.com/assets/docs/editor/accessibility/zoomed-in.png "Logo Title Text 1")
-
+ 
+ #3.- Por ultimo debemos instalar la aplicación de github para escritorio para ello iremos al siguiente link y descargaremos la verción de windows dependiendo del que se tenga instalado.
+| https://desktop.github.com |
+una vez descargado e instalado al iniciar sesión con nuestra cuenta se mirara algo asi.
+![alt text](https://desktop.github.com/images/github-desktop-screenshot-windows.png "Logo Title Text 1")
+y con esto terminariamos de instalar el ambiente de desarrollo para la consola C#
