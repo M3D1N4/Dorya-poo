@@ -20,5 +20,4 @@ POO 2do semestre mariosky.
  
  4.-
  
- ![alt text](https://github.com/M3D1N4/Dorya-poo/blob/master/Images/cactus.jpg "Logo Title Text 1")
 
