@@ -22,8 +22,13 @@ Exactamente donde dice "Download for windows".
 
 
  
- #3.- Por ultimo debemos instalar la aplicación de github para escritorio para ello iremos al siguiente link y descargaremos la verción de windows dependiendo del que se tenga instalado.
+ #3.- Por ultimo debemos instalar la aplicación de github para escritorio para ello iremos al siguiente link y descargaremos la versión de windows dependiendo del que se tenga instalado.
 | https://desktop.github.com |
+
+La página es asi, se descarga exactamente donde dice "Download for windows"
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Github%20Dsk.png "Logo Title Text 1")
+
 una vez descargado e instalado al iniciar sesión con nuestra cuenta se mirara algo asi.
 ![alt text](https://desktop.github.com/images/github-desktop-screenshot-windows.png "Logo Title Text 1")
 y con esto terminariamos de instalar el ambiente de desarrollo para la consola C#
