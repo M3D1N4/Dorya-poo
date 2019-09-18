@@ -10,6 +10,8 @@ Pasos para instalar el ambiente de desarrollo para la consola C#
 
 #1.-Para instalar dotnet core 2.2 se tiene que ir al siguiente link:| https://dotnet.microsoft.com/download | y descargar el Net core 2.2 (especificamente el build sdk).
 
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/DownloadNet%20Descarga.PNG "Logo Title Text 1")
+
 #2.-  Al descargar el archivo anterior deberemos instalarlo, este proceso puede tardar un poco, pero una vez instalado y descargado algúnos paquetes podremos usarlo y se vera algo asi.
 ![alt text](https://code.visualstudio.com/assets/docs/editor/accessibility/zoomed-in.png "Logo Title Text 1")
  
