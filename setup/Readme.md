@@ -43,7 +43,7 @@ Una vez poniendo nuestros datos...
 
 Ya iniciando sesión tendriamos por finalizada la instalación de github desktop.
 
-![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/info.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Gt%20final.png "Logo Title Text 1")
 
 
 
