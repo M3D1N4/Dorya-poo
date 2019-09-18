@@ -16,6 +16,8 @@ Pasos para instalar el ambiente de desarrollo para la consola C#
 
 ![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/images/VSC.png "Logo Title Text 1")
 
+Exactamente donde dice "Download for windows".
+
 ![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/images/VSC%20Dwnld.png "Logo Title Text 1")
 
 
