@@ -6,7 +6,7 @@ Pasos para instalar el ambiente de desarrollo para la consola C#
 
 3.-Instalación de git. conectado a tu cuenta de GitHub y VSC
 
-![alt text](https://github.com/M3D1N4/Dorya-poo/blob/master/Images/Download%20net%20pagina.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Download%20net%20pagina.PNG "Logo Title Text 1")
 
 #1.-Para instalar dotnet core 2.2 se tiene que ir al siguiente link:| https://dotnet.microsoft.com/download | y descargar el Net core 2.2 (especificamente el build sdk).
 
