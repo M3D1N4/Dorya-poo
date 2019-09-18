@@ -31,7 +31,7 @@ La página es asi, se descarga exactamente donde dice "Download for windows"
 
 Al abrirlo aparecera esta ventana.
 
-![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/gtCharg.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Gt%20final.png "Logo Title Text 1")
 
 Una vez termine de cargar nos dara la opción de crear una cuenta nueva o iniciar sesión con una ya existente. usamos la cual sea para nuestro caso.
 
