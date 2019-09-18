@@ -29,6 +29,21 @@ La página es asi, se descarga exactamente donde dice "Download for windows"
 
 ![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Github%20Dsk.png "Logo Title Text 1")
 
-una vez descargado e instalado al iniciar sesión con nuestra cuenta se mirara algo asi.
-![alt text](https://desktop.github.com/images/github-desktop-screenshot-windows.png "Logo Title Text 1")
-y con esto terminariamos de instalar el ambiente de desarrollo para la consola C#
+Al abrirlo aparecera esta ventana.
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/gtCharg.png "Logo Title Text 1")
+
+Una vez termine de cargar nos dara la opción de crear una cuenta nueva o iniciar sesión con una ya existente. usamos la cual sea para nuestro caso.
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/gtSign.png "Logo Title Text 1")
+
+Una vez poniendo nuestros datos...
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/info.png "Logo Title Text 1")
+
+Ya iniciando sesión tendriamos por finalizada la instalación de github desktop.
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/info.png "Logo Title Text 1")
+
+
+
