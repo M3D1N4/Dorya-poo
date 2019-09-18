@@ -45,5 +45,18 @@ Ya iniciando sesión tendriamos por finalizada la instalación de github desktop
 
 ![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Gt%20final.png "Logo Title Text 1")
 
+Ya estando en esta pantalla lo unico que restaria por hacer seria vincular el repositorio a usar con la aplicación, para ello iremos a "clone a repository"
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/clone%20repos.png "Logo Title Text 1")
+
+Tardara un poco en cargar...
+
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/cloning.png "Logo Title Text 1")
+
+y listo, tendremos todo listo para trabajar, cualquier cambio que hagas al repositorio se guardara al repositorio de la cuenta que vinculemos a github.
+ 
+![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/repost%20final.png  "Logo Title Text 1")
+
+Espero les ayude esta información!!
 
 
