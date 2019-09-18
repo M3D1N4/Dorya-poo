@@ -4,7 +4,7 @@ Pasos para instalar el ambiente de desarrollo para la consola C#
 
 2.-Instalación y configuración de Visual Studio Code para C#.
 
-3.-Instalación de git. conectado a tu cuenta de GitHub y VSC
+3.-Instalación de git. conectado a tu cuenta de GitHub.
 
 ![alt text](https://raw.githubusercontent.com/M3D1N4/Dorya-poo/master/Images/Download%20net%20pagina.PNG "Logo Title Text 1")
 
