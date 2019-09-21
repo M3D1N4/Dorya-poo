@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Pelicula\bin\Debug\netcoreapp2.2\Pelicula.deps.json
+C:\Users\Moon\Desktop\Pelicula\bin\Debug\netcoreapp2.2\Pelicula.runtimeconfig.json
+C:\Users\Moon\Desktop\Pelicula\bin\Debug\netcoreapp2.2\Pelicula.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Pelicula\bin\Debug\netcoreapp2.2\Pelicula.dll
+C:\Users\Moon\Desktop\Pelicula\bin\Debug\netcoreapp2.2\Pelicula.pdb
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.dll
+C:\Users\Moon\Desktop\Pelicula\obj\Debug\netcoreapp2.2\Pelicula.pdb
