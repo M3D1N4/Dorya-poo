@@ -1,6 +1,8 @@
 # Dorya-poo
 Repositorio de Medina Magaña
+
 Profesor: Mariosky
+
 POO - 2do semestre
 # Actividades # 
  1.-Crear Repositorio en Github (10 de Septiembre 9:00 horas) |https://github.com/M3D1N4/Dorya-poo |
