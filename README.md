@@ -7,9 +7,9 @@ POO 2do semestre mariosky.
  
  3.-Programa básico Peliculas (20 de Septiembre 9:00 horas)   | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs  | 
  
- 4.-Lista de Películas (15 de Septiembre 9:00 horas)     |    | 
+ 4.-Lista de Películas (21 de Septiembre 9:00 horas)     |  https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/PeliculaList  | 
  
- 6.-Actores (16 de Septiembre 9:00 horas)   | | 
+ 6.-Actores (22 de Septiembre 9:00 horas)   | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/PeliculaList | 
  
 # Trabajos #
  1.-
