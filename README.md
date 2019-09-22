@@ -11,13 +11,7 @@ POO 2do semestre mariosky.
  
  6.-Actores (22 de Septiembre 9:00 horas)   | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/PeliculaList | 
  
-# Trabajos #
- 1.-
- 
- 2.-
- 
- 3.-
- 
- 4.-
+# THX #
+
  
 
