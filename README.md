@@ -5,6 +5,13 @@ Profesor: Mariosky
 
 POO - 2do semestre
 # Actividades # 
+
+# Unidad 2 #
+
+1.-Paso de parámetros (30 de Septiembre) |                                 https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2|
+
+ # Unidad 1 #
+ 
  1.-Crear Repositorio en Github (10 de Septiembre 9:00 horas) |https://github.com/M3D1N4/Dorya-poo |
  
  2.-Ejercicio de Markdown en Github (18 de Septiembre 9:00 horas) | https://github.com/M3D1N4/Dorya-poo/blob/master/setup/Readme.md  | 
