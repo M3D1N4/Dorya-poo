@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Parametros\bin\Debug\netcoreapp2.2\Parametros.deps.json
+C:\Users\Moon\Desktop\Parametros\bin\Debug\netcoreapp2.2\Parametros.runtimeconfig.json
+C:\Users\Moon\Desktop\Parametros\bin\Debug\netcoreapp2.2\Parametros.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Parametros\bin\Debug\netcoreapp2.2\Parametros.dll
+C:\Users\Moon\Desktop\Parametros\bin\Debug\netcoreapp2.2\Parametros.pdb
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.dll
+C:\Users\Moon\Desktop\Parametros\obj\Debug\netcoreapp2.2\Parametros.pdb
