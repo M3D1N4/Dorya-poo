@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Asistencia\bin\Debug\netcoreapp2.2\Asistencia.deps.json
+C:\Users\Moon\Desktop\Asistencia\bin\Debug\netcoreapp2.2\Asistencia.runtimeconfig.json
+C:\Users\Moon\Desktop\Asistencia\bin\Debug\netcoreapp2.2\Asistencia.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Asistencia\bin\Debug\netcoreapp2.2\Asistencia.dll
+C:\Users\Moon\Desktop\Asistencia\bin\Debug\netcoreapp2.2\Asistencia.pdb
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.dll
+C:\Users\Moon\Desktop\Asistencia\obj\Debug\netcoreapp2.2\Asistencia.pdb
