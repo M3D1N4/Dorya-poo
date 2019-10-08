@@ -28,7 +28,7 @@ POO - 2do semestre
  
  6.-Actores (22 de Septiembre 9:00 horas)   | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/PeliculaList | 
  
-   #                                                      # THX #
+ # THX #
  
 ![alt text](https://github.com/M3D1N4/Dorya-poo/blob/master/Images/legs_by_dragonith-d9khjg9.png "Logo Title Text 1")
 
