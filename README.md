@@ -3,6 +3,8 @@ Repositorio de Medina Magaña
 
 Profesor: Mariosky
 
+![alt text](https://github.com/M3D1N4/Dorya-poo/blob/master/Images/legs_by_dragonith-d9khjg9.png "Logo Title Text 1")
+
 POO - 2do semestre
 # Actividades # 
 
