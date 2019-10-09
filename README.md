@@ -5,14 +5,16 @@ Profesor: Mariosky
 
 
 POO - 2do semestre
-# Actividades # 
 
 # Asistencia #
 
 30/9/19
 | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2/Asistencia |
 
+# Actividades # 
+
 # Unidad 2 #
+.-Domino     | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2/Domino |
 
 1.-Paso de parámetros (30 de Septiembre) |                                 https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2|
 
