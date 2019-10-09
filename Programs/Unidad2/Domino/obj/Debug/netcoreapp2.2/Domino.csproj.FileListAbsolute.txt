@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Domino\bin\Debug\netcoreapp2.2\Domino.deps.json
+C:\Users\Moon\Desktop\Domino\bin\Debug\netcoreapp2.2\Domino.runtimeconfig.json
+C:\Users\Moon\Desktop\Domino\bin\Debug\netcoreapp2.2\Domino.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Domino\bin\Debug\netcoreapp2.2\Domino.dll
+C:\Users\Moon\Desktop\Domino\bin\Debug\netcoreapp2.2\Domino.pdb
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.dll
+C:\Users\Moon\Desktop\Domino\obj\Debug\netcoreapp2.2\Domino.pdb
