@@ -13,7 +13,7 @@ Minutos = M;
 Segundos = S;
 }
 public void print(){
-    Console.WriteLine(Horas);
+    Console.WriteLine("Horas :"+Horas+" Minutos : "+Minutos+" Segundos :"+Segundos );
 }
     }
     class Program
@@ -21,7 +21,11 @@ public void print(){
         static void Main(string[] args)
         {
             Tiempo Pelicula = new Tiempo(2,15,12);
+            Tiempo Cancion = new Tiempo(0,02,15);
+            Tiempo Partido = new Tiempo(2,00,10);
             Pelicula.print();
+            Cancion.print();
+            Partido.print();
             
            
         }
