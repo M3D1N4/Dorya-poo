@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Duracion\bin\Debug\netcoreapp2.2\Duracion.deps.json
+C:\Users\Moon\Desktop\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.json
+C:\Users\Moon\Desktop\Duracion\bin\Debug\netcoreapp2.2\Duracion.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Duracion\bin\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\Moon\Desktop\Duracion\bin\Debug\netcoreapp2.2\Duracion.pdb
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.dll
+C:\Users\Moon\Desktop\Duracion\obj\Debug\netcoreapp2.2\Duracion.pdb
