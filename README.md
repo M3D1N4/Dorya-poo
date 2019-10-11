@@ -16,7 +16,7 @@ POO - 2do semestre
 # Unidad 2 #
 1.-Paso de parámetros (30 de Septiembre) |                                 https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2|
 
-2.-Juego de la vida (me falta x-x)
+2.-Juego de la vida | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2/Celula |
 
 3.-Domino     | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2/Domino |
 
