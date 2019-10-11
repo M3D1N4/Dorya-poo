@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Celula\bin\Debug\netcoreapp2.2\Celula.deps.json
+C:\Users\Moon\Desktop\Celula\bin\Debug\netcoreapp2.2\Celula.runtimeconfig.json
+C:\Users\Moon\Desktop\Celula\bin\Debug\netcoreapp2.2\Celula.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Celula\bin\Debug\netcoreapp2.2\Celula.dll
+C:\Users\Moon\Desktop\Celula\bin\Debug\netcoreapp2.2\Celula.pdb
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.dll
+C:\Users\Moon\Desktop\Celula\obj\Debug\netcoreapp2.2\Celula.pdb
