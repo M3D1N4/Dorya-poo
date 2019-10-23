@@ -1,0 +1,11 @@
+C:\Users\ITT\Desktop\Publicacion\bin\Debug\netcoreapp2.1\Publicacion.deps.json
+C:\Users\ITT\Desktop\Publicacion\bin\Debug\netcoreapp2.1\Publicacion.runtimeconfig.json
+C:\Users\ITT\Desktop\Publicacion\bin\Debug\netcoreapp2.1\Publicacion.runtimeconfig.dev.json
+C:\Users\ITT\Desktop\Publicacion\bin\Debug\netcoreapp2.1\Publicacion.dll
+C:\Users\ITT\Desktop\Publicacion\bin\Debug\netcoreapp2.1\Publicacion.pdb
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.csproj.CoreCompileInputs.cache
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.AssemblyInfo.cs
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.dll
+C:\Users\ITT\Desktop\Publicacion\obj\Debug\netcoreapp2.1\Publicacion.pdb
