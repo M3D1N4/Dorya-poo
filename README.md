@@ -24,7 +24,7 @@ POO - 2do semestre
 
 1.-Musico | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad3/Musico |
 
-2.-Alumno | URL |
+2.-Alumno | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad3/Alumno |
 
 # Unidad 2 #
 1.-Paso de parámetros (30 de Septiembre) | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad2|
