@@ -26,13 +26,6 @@ namespace Musico
             public override void Afinar(){
                 Console.WriteLine("{0} Afinando su {1}",Nombre,Bajo);
             }
-            /*public void Afinar1(){
-                Console.WriteLine("{0} Esta afinando su bajo {1}",Nombre,B);
-            }
-            public void Tocar(){
-                Console.WriteLine("{0} Esta utilizando su bajo {1}",Nombre,B);
-            }
-             */
         }
         class Guitarrista:Musico{
             private string Guitarra;
@@ -43,20 +36,33 @@ namespace Musico
          public override void Afinar(){
                 Console.WriteLine("{0} Afinando su {1}",Nombre,Guitarra);
         } 
+        class Baterista:Musico{
+            private string Bateria;
+            public Baterista(string no, string V):base(no)
+            {
+                this.Bateria=V;
+            }
+         public override void Afinar(){
+                Console.WriteLine("{0} Afinando su {1}",Nombre,Bateria);
+        } 
     }
     class Program
     {
         static void Main(string[] args)
         {
             Musico Tomas=new Musico("Tomas");
-            Bajista flea=new Bajista("Flea","MusicMan");
-            //Guitarrista JSenoue=new Guitarrista("JSenoue","Call me crazy");
+            Bajista flea=new Bajista("Flea","Bateria");
+            Guitarrista JSenoue=new Guitarrista("JSenoue","Guitarra");
+            Baterista IDK =new Baterista("IDK","Bateria");
             List <Musico> grupo = new List <Musico>();
             grupo.Add(Tomas);
             grupo.Add(flea);
+            grupo.Add(JSenoue);
+            grupo.Add(IDK);
             foreach(Musico m in grupo){
                 m.Saludar();
                 m.Afinar();
+                Console.WriteLine(" ");
             }
           
            
@@ -65,5 +71,6 @@ namespace Musico
             
         }
     }
+}
 }
 }
