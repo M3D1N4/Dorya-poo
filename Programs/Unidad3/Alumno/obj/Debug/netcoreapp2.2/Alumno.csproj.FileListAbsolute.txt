@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Alumno\bin\Debug\netcoreapp2.2\Alumno.deps.json
+C:\Users\Moon\Desktop\Alumno\bin\Debug\netcoreapp2.2\Alumno.runtimeconfig.json
+C:\Users\Moon\Desktop\Alumno\bin\Debug\netcoreapp2.2\Alumno.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Alumno\bin\Debug\netcoreapp2.2\Alumno.dll
+C:\Users\Moon\Desktop\Alumno\bin\Debug\netcoreapp2.2\Alumno.pdb
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.dll
+C:\Users\Moon\Desktop\Alumno\obj\Debug\netcoreapp2.2\Alumno.pdb
