@@ -22,7 +22,7 @@ POO - 2do semestre
 
 # Unidad 3 #
 
-1.-Musico | URL |
+1.-Musico | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad3/Musico |
 
 2.-Alumno | URL |
 
