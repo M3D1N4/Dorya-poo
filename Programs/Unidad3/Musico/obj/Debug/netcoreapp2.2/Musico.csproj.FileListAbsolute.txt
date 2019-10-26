@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Musico\bin\Debug\netcoreapp2.2\Musico.deps.json
+C:\Users\Moon\Desktop\Musico\bin\Debug\netcoreapp2.2\Musico.runtimeconfig.json
+C:\Users\Moon\Desktop\Musico\bin\Debug\netcoreapp2.2\Musico.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Musico\bin\Debug\netcoreapp2.2\Musico.dll
+C:\Users\Moon\Desktop\Musico\bin\Debug\netcoreapp2.2\Musico.pdb
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.dll
+C:\Users\Moon\Desktop\Musico\obj\Debug\netcoreapp2.2\Musico.pdb
