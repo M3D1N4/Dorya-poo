@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Ilustrador\bin\Debug\netcoreapp2.2\Ilustrador.deps.json
+C:\Users\Moon\Desktop\Ilustrador\bin\Debug\netcoreapp2.2\Ilustrador.runtimeconfig.json
+C:\Users\Moon\Desktop\Ilustrador\bin\Debug\netcoreapp2.2\Ilustrador.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Ilustrador\bin\Debug\netcoreapp2.2\Ilustrador.dll
+C:\Users\Moon\Desktop\Ilustrador\bin\Debug\netcoreapp2.2\Ilustrador.pdb
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.dll
+C:\Users\Moon\Desktop\Ilustrador\obj\Debug\netcoreapp2.2\Ilustrador.pdb
