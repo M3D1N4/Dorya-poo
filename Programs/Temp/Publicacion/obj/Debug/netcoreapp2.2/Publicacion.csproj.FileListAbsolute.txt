@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Publicacion\bin\Debug\netcoreapp2.2\Publicacion.deps.json
+C:\Users\Moon\Desktop\Publicacion\bin\Debug\netcoreapp2.2\Publicacion.runtimeconfig.json
+C:\Users\Moon\Desktop\Publicacion\bin\Debug\netcoreapp2.2\Publicacion.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Publicacion\bin\Debug\netcoreapp2.2\Publicacion.dll
+C:\Users\Moon\Desktop\Publicacion\bin\Debug\netcoreapp2.2\Publicacion.pdb
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.dll
+C:\Users\Moon\Desktop\Publicacion\obj\Debug\netcoreapp2.2\Publicacion.pdb
