@@ -1,36 +1,43 @@
-﻿using System;
-using System.Collecion.Generic;
+﻿  
+using System;
+using System.Collections.Generic;
 
 namespace Publicacion
 {
-    class Publicacion{
-        string Usuario;
-        string Fecha;
-        string Calificacion;
+    abstract class Publicacion
+    {
+       
+       protected string Nombre;
+       protected string Mensaje;
+       protected string amigo;
+       protected string comentario;
+       protected string link;
+       
+       public Publicacion(string N,string M,string A,string C,string L)
+       {
+           this.Nombre = N;
+           this.Mensaje = M;
+           this.amigo = A;
+           this.comentario = C;
+           this.link = L;
+       }
+ 
+    }
 
-        public Publicacion(string Usuario, string Fecha, string Calificacion)
-        {
-            This.Usuario("Pepe");
-        }
-
-        class Estado{
-
-        }
-
-        class Foto{
-
-        }
-
-        class Link{
-
-        }
+    class Estado{
+      
+    }
+    class Fotos{
+    }
+    class Link{
 
     }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Usuario);
+
         }
     }
 }
