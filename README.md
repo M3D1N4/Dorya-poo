@@ -18,7 +18,7 @@ POO - 2do semestre
 
 # Unidad 4 #
 
-1.-Publicacion(sin terminar) | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Temp/Publicacion |
+1.-Publicacion | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Temp/Publicacion |
 
 2.- Ilustador | https://github.com/M3D1N4/Dorya-poo/tree/master/Programs/Unidad3/Ilustrador |
 
