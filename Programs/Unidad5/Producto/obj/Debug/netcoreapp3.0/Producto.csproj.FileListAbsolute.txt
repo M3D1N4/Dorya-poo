@@ -1,0 +1,3 @@
+C:\Users\ITT\Desktop\Producto\obj\Debug\netcoreapp3.0\Producto.csprojAssemblyReference.cache
+C:\Users\ITT\Desktop\Producto\obj\Debug\netcoreapp3.0\Producto.AssemblyInfoInputs.cache
+C:\Users\ITT\Desktop\Producto\obj\Debug\netcoreapp3.0\Producto.AssemblyInfo.cs
