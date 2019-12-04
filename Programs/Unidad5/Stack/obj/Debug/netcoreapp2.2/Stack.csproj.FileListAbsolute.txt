@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Stack\bin\Debug\netcoreapp2.2\Stack.deps.json
+C:\Users\Moon\Desktop\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.json
+C:\Users\Moon\Desktop\Stack\bin\Debug\netcoreapp2.2\Stack.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Stack\bin\Debug\netcoreapp2.2\Stack.dll
+C:\Users\Moon\Desktop\Stack\bin\Debug\netcoreapp2.2\Stack.pdb
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.dll
+C:\Users\Moon\Desktop\Stack\obj\Debug\netcoreapp2.2\Stack.pdb
