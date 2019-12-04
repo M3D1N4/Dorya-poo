@@ -1,0 +1,11 @@
+C:\Users\Moon\Desktop\Cola\bin\Debug\netcoreapp2.2\Cola.deps.json
+C:\Users\Moon\Desktop\Cola\bin\Debug\netcoreapp2.2\Cola.runtimeconfig.json
+C:\Users\Moon\Desktop\Cola\bin\Debug\netcoreapp2.2\Cola.runtimeconfig.dev.json
+C:\Users\Moon\Desktop\Cola\bin\Debug\netcoreapp2.2\Cola.dll
+C:\Users\Moon\Desktop\Cola\bin\Debug\netcoreapp2.2\Cola.pdb
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.AssemblyInfoInputs.cache
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.AssemblyInfo.cs
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.dll
+C:\Users\Moon\Desktop\Cola\obj\Debug\netcoreapp2.2\Cola.pdb
